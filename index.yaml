@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-04-08T20:17:04.5350694+08:00"
+entries:
+  polestar-eks-template:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-08T20:24:05.9952356+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4cdd929c65003bc42d033dbcaf24923a4372dcebdea85cc7f41c4e0011b678d2
+    name: polestar-eks-template
+    type: library
+    urls:
+    - polestar-eks-template-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-08T20:24:05.9951497+08:00"
